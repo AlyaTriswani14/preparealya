@@ -1,4 +1,4 @@
-# 📚 PreparEAlya - Sistem Manajemen Data Mahasiswa
+# 📚 PrepareAlya - Sistem Manajemen Data Mahasiswa
 
 Aplikasi web sederhana untuk mengelola data mahasiswa menggunakan Laravel. Project ini dibuat sebagai pembelajaran Web Tabular dan Database CRUD (Create, Read, Update, Delete).
 
